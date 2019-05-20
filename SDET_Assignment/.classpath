@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/SDET/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/SDET/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/SDET/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/SDET/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/SDET/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/Selenium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/Selenium/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/Selenium/selenium-java-3.14.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/Selenium/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/Selenium/geckodriver-v0.21.0-win64.zip"/>
+	<classpathentry kind="lib" path="C:/Users/amaggo1/Documents/Selenium/IEDriverServer_x64_3.14.0.zip"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
